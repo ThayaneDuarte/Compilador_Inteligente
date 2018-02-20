@@ -9,7 +9,7 @@ Trabalho realizado para a disciplina de Compiladores por meio da linguagem de pr
 
 ### Referencia
 
-o livro de [Alfred Aho][df1] e [Jeffrey Ullman][df1]
+Livro de Alfred Aho e Jeffrey Ullman
 
 > “Compiladores. Princípios, Técnicas e Ferramentas”
 
