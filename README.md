@@ -2,6 +2,8 @@
 
 Trabalho realizado para a disciplina de Compiladores por meio da linguagem de programação Java
 
+Possui:
+
   - o Analisador Léxico;
   - o Analisador Sintático;
   - o Analisador Semântico;
